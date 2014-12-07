@@ -1,6 +1,9 @@
 vim
 ===
-# NeoBundle関連
+
+# .vimrc関連
+
+## NeoBundle
 
 - call neobundle#rc(expand('~/.vim/bundle/'))
 
